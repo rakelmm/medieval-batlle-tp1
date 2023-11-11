@@ -1,10 +1,7 @@
 package org.example.personagens;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import org.example.utils.DadoUtil;
 import org.example.Personagem;
+import org.example.utils.DadoUtil;
 
 public class Barbaro extends Personagem {
     public Barbaro() {
